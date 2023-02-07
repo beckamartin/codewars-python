@@ -1,8 +1,8 @@
 def hamming(a,b):
-    resault = 0
+    result = 0
 
     for pos, char in enumerate(a):
         if char not in b[pos]:
-            resault += 1
+            result += 1
 
-    return resault
+    return result
