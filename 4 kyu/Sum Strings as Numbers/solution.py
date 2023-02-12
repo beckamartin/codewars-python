@@ -4,15 +4,16 @@ def sum_strings(x, y):
 
     value = 0
     carry = 0
-    result = ""
+    result = []
 
     for a, b in reversed(list(zip(x, y))):
         value = carry + int(a) + int(b)
         carry, value = divmod(value, 10)
-        result += str(value)
+        result.append(str(value))
+    result.append(str(carry))
 
-    result += str(carry)
-    answer = result[::-1].lstrip("0")
+    answer = "".join(str(i) for i in result)
+    answer = answer[::-1].lstrip("0")
     
     if answer == "": return "0"
     else: return answer
