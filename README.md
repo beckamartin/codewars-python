@@ -18,6 +18,7 @@
   - [RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001)
   - [Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f)
   - [ROT13](https://www.codewars.com/kata/52223df9e8f98c7aa7000062)
+  - [Extract the domain name from a URL](https://www.codewars.com/kata/514a024011ea4fb54200004b)
 
 **6 kyu**
 
