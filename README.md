@@ -6,7 +6,8 @@
   - [Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1)
   - [Roman Numerals Helper](https://www.codewars.com/kata/51b66044bce5799a7f000003)
   - [Strip Comments](https://www.codewars.com/kata/51c8e37cee245da6b40000bd)
-  - [So Many Permutations!](https://www.codewars.com/kata/5254ca2719453dcc0b00027d/python)
+  - [So Many Permutations!](https://www.codewars.com/kata/5254ca2719453dcc0b00027d)
+  - [Sum Strings as Numbers](https://www.codewars.com/kata/5324945e2ece5e1f32000370)
 
 **5 kyu**
 
