@@ -8,6 +8,7 @@
   - [Strip Comments](https://www.codewars.com/kata/51c8e37cee245da6b40000bd)
   - [So Many Permutations!](https://www.codewars.com/kata/5254ca2719453dcc0b00027d)
   - [Sum Strings as Numbers](https://www.codewars.com/kata/5324945e2ece5e1f32000370)
+  - [Pyramid Slide Down](https://www.codewars.com/kata/551f23362ff852e2ab000037)
 
 **5 kyu**
 
