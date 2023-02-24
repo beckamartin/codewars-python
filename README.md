@@ -48,6 +48,7 @@
   - [Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1)
   - [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155)
   - [Is this a triangle?](https://www.codewars.com/kata/56606694ec01347ce800001b)
+  - [Jaden Casing Strings](https://www.codewars.com/kata/5390bac347d09b7da40006f6)
 
 **8 kyu**
 
