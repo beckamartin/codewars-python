@@ -1,4 +1,9 @@
 # Codewars Python Katas
+#### Description:
+
+In this repository, you will find my personal solutions to the tasks aka Kata in Python programming language on Codewars.com. Katas are ordered from the most difficult (4 kyu) to easiest (8 kyu). I hope I will be able to add even more challenging Katas (1-3 kyu). Please, do not blatantly copy my codes into your solutions. You can use them to your advantage and as an inspiration to your own solving.
+
+Thanks for your time and happy coding!
 
 **4 kyu**
 
